@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="这是独一无二的行星!" src="./assets/readme-header.png" /></p>
+<p align="center"><img width="24%" alt="这是独一无二的行星!" src="./assets/readme-header.png" /></p>
 
 ### Hi there 👋
 
