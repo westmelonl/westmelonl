@@ -1,3 +1,5 @@
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/readme-header.png" /></p>
+
 ### Hi there 👋
 
 - :smile: 我的名字叫westmelonl
