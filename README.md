@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- :smile: 我的名字叫westmelonl
+- :smile: 我的名字叫westmelon
 - :birthday: 生日1999-10-01
 - :house_with_garden: 老家河南南阳
 - :office: 现在在北京
