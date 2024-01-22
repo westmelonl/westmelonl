@@ -10,6 +10,8 @@
 - :running: 喜欢跑步
 - :icecream: get 半程马拉松
 - :triangular_flag_on_post: 目标达成：01:36:08
+- :bicyclist: get 百公里骑行
+- :triangular_flag_on_post: 目标达成：5h
 - :email: 联系我的方式 west000111@163.com
 - :sparkles: 想做一个精致的开发者，为某一项细节抠到极致
 <br>
